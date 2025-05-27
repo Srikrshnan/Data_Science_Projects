@@ -38,4 +38,18 @@ The dataset includes details such as:
 - Jupyter Notebook – Interactive analysis
 
 ---
+## 📁 Project Structure
+- `Employee_Compensation_Analysis.ipynb`: Main notebook containing data analysis and visualizations.
+- `requirements.txt`: Python dependencies.
+
+## ✅ Key Highlights
+- Cleaned and analyzed real-world HR data for over 20,000 employees.
+- Identified top-paying job families and departments.
+- Visualized salary distributions and overtime contributions.
+- Derived insights to help inform HR and budgeting strategies.
+
+## 📌 How to Run
+```bash
+pip install -r requirements.txt
+jupyter notebook
 
